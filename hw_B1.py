@@ -3,4 +3,5 @@ with open ('rosalind_rna.txt') as file:
     print(dna)
     rna = dna.replace('T','U')
     print(rna)
+    
         
